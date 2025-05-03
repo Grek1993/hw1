@@ -27,8 +27,7 @@
             <option value="1">Minsk</option>
             <option value="2">Brest</option>
             <option value="3">Mogilev</option>
-            <option value="4">Grodno</option>
-            <option value="4">Vitebsk</option>
+            <option value="4">Grodno</option>            
             <option value="4">Gomel</option>
          </select>
         <div data-cy="hw1-unordered-list-box-pre">
@@ -83,7 +82,7 @@
                   </form>
         </div>
         <!-- 5) Создай здесь однострочное поле для ввода текста с подсказкой "Новый скилл", которая исчезает, когда начинаешь что-то печатать (для подсказки есть специальный атрибут) -->        
-          <input type="1" form="erhngklojri"> 
+          <input value="привет" form="erhngklojri"> 
         <!-- 6) Создай здесь кнопку “Добавить” -->
         <button>Добавить</button>
         <!-- 7) Добавь горизонтальную линию (для этого есть специальный тег) -->
